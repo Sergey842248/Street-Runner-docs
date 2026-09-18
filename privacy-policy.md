@@ -1,7 +1,7 @@
 # Privacy Policy – Street Runner
 
 **Effective date: 18 September 2026**
-Applies to the mobile game **Street Runner** for Android (`com.streetrunner.street_runner`) and iOS (`com.streetrunner.streetRunner`).
+Applies to the mobile game **Street Runner** for Android (`com.future.street_runner`) and iOS (`com.future.street-runner`).
 
 > **Deutsche Fassung weiter unten.** / The German version follows below.
 
